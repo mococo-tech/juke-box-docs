@@ -9,11 +9,11 @@ const config = {
   title: 'JUKEBOX 利用方法',
   tagline: 'JUKEBOX の利用方法に関するWebサイト',
   url: 'https://mococo-tech.github.io/',
-  baseUrl: '/',
+  baseUrl: '/juke-box-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-
+  trailingSlash: true,
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'mococo-tech', // Usually your GitHub org/user name.
