@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjuke_box_docs=self.webpackChunkjuke_box_docs||[]).push([[7028],{2200:o=>{o.exports=JSON.parse('{"label":"facebook","permalink":"/juke-box-docs/blog/tags/facebook","allTagsPath":"/juke-box-docs/blog/tags","count":1}')}}]);

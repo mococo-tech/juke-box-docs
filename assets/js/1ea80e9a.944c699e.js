@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjuke_box_docs=self.webpackChunkjuke_box_docs||[]).push([[4724],{8449:o=>{o.exports=JSON.parse('{"permalink":"/juke-box-docs/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
